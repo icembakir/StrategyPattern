@@ -1,0 +1,11 @@
+C:\Users\Ismail Cem\source\repos\CarBrakeStrategyPattern\CarBrakeStrategyPattern\obj\Debug\netcoreapp2.1\CarBrakeStrategyPattern.csprojAssemblyReference.cache
+C:\Users\Ismail Cem\source\repos\CarBrakeStrategyPattern\CarBrakeStrategyPattern\obj\Debug\netcoreapp2.1\CarBrakeStrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ismail Cem\source\repos\CarBrakeStrategyPattern\CarBrakeStrategyPattern\obj\Debug\netcoreapp2.1\CarBrakeStrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Ismail Cem\source\repos\CarBrakeStrategyPattern\CarBrakeStrategyPattern\obj\Debug\netcoreapp2.1\CarBrakeStrategyPattern.AssemblyInfo.cs
+C:\Users\Ismail Cem\source\repos\CarBrakeStrategyPattern\CarBrakeStrategyPattern\bin\Debug\netcoreapp2.1\CarBrakeStrategyPattern.deps.json
+C:\Users\Ismail Cem\source\repos\CarBrakeStrategyPattern\CarBrakeStrategyPattern\bin\Debug\netcoreapp2.1\CarBrakeStrategyPattern.runtimeconfig.json
+C:\Users\Ismail Cem\source\repos\CarBrakeStrategyPattern\CarBrakeStrategyPattern\bin\Debug\netcoreapp2.1\CarBrakeStrategyPattern.runtimeconfig.dev.json
+C:\Users\Ismail Cem\source\repos\CarBrakeStrategyPattern\CarBrakeStrategyPattern\bin\Debug\netcoreapp2.1\CarBrakeStrategyPattern.dll
+C:\Users\Ismail Cem\source\repos\CarBrakeStrategyPattern\CarBrakeStrategyPattern\bin\Debug\netcoreapp2.1\CarBrakeStrategyPattern.pdb
+C:\Users\Ismail Cem\source\repos\CarBrakeStrategyPattern\CarBrakeStrategyPattern\obj\Debug\netcoreapp2.1\CarBrakeStrategyPattern.dll
+C:\Users\Ismail Cem\source\repos\CarBrakeStrategyPattern\CarBrakeStrategyPattern\obj\Debug\netcoreapp2.1\CarBrakeStrategyPattern.pdb
